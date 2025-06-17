@@ -1,5 +1,5 @@
 const REDIRECT_URL = "https://t.me/RscaOnLove";
-const WEBHOOK_URL = "https://webhook.site/TON_WEBHOOK_ID"; // Remplace ce lien par ton vrai lien Webhook.site
+const WEBHOOK_URL = "https://webhook.site/a2b2ae4e-01bc-4d30-93fc-098592ab1969";
 
 function redirectAfter(ms) {
   setTimeout(() => {
